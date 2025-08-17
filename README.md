@@ -8,12 +8,16 @@ For the keyboard simulator, select the key and mode. If the mode is pressing, ig
 
 This project is licensed under the MIT License. You are free to use, copy, modify, and distribute this software, provided that the above copyright notice and this permission notice are included in all copies or substantial portions of the Software.
 
+<img width="449" height="436" alt="image" src="https://github.com/user-attachments/assets/ffe3e4d5-042a-4c9d-aaea-602951612627" />
+
+<img width="447" height="438" alt="image" src="https://github.com/user-attachments/assets/28beefd4-2f89-494f-a675-5b2b1dcf5ae5" />
+
 
 这是一个自动工具，具备鼠标自动点击功能和键盘操作模拟功能。
 
 对于鼠标自动点击功能，选择按钮和间隔时间，然后点击“开始”或使用键盘快捷键 *F4* 启动，点击“停止”或使用键盘快捷键 *F5* 停止。
 
-对于键盘模拟功能，选择按键和模式。如果模式为按下，则忽略间隔时间选项；如果模式为点击，则选择间隔时间。按下“开始”和“停止”，或按下*F6*和*F7*键来启动和停止。
+对于键盘模拟功能，选择按键和模式。如果模式为按下，则忽略间隔时间选项；如果模式为点击，则选择间隔时间。按下“开始”和“停止”，或按下 *F6* 和 *F7* 键来启动和停止。
 
 ****Esc键可停止所有功能。****
 
