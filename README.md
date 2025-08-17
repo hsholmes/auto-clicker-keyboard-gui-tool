@@ -2,7 +2,7 @@ This is an automative tool, with mouse autoclicker function and keyboard action 
 
 For the mouse autoclicker, select the button and interval, then press "Start" or keyboard shortcut *F4* to start, press "Stop" or keyboard *F5* to stop.
 
-For the keyboard simulator, select the key and mode. If the mode is pressing, ignore the interval option; if the mode is clicking, select the interval. Press "Start" and "Stop", or F6 and F7 to start and stop.
+For the keyboard simulator, select the key and mode. If the mode is pressing, ignore the interval option; if the mode is clicking, select the interval. Press "Start" and "Stop", or *F6* and *F7* to start and stop.
 
 ****Esc stops all functions.****
 
