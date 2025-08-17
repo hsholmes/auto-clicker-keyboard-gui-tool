@@ -1,0 +1,44 @@
+# ----------------------
+# Python basics
+# ----------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Distribution / packaging
+*.egg
+*.egg-info/
+dist/
+build/
+*.spec
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# IDE/Editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs / Dumps
+*.log
+*.tmp
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# ----------------------
+# Custom for this project
+# ----------------------
+
+# Exclude packaged EXEs (upload separately in Releases)
+*.exe
+
+# Dependency folder (if you don't want it versioned)
+dependencies/
